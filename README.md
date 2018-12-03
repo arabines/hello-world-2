@@ -1,2 +1,7 @@
 # hello-world-2
-third repository
+
+this is my third repository ... 
+
+It doesn't do much
+
+
